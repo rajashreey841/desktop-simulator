@@ -1,0 +1,11 @@
+C:/Users/sonicwall/Desktop/Desktop-Simulator/glew_build/CMakeFiles/glewinfo.dir
+C:/Users/sonicwall/Desktop/Desktop-Simulator/glew_build/CMakeFiles/glew.dir
+C:/Users/sonicwall/Desktop/Desktop-Simulator/glew_build/CMakeFiles/glew_s.dir
+C:/Users/sonicwall/Desktop/Desktop-Simulator/glew_build/CMakeFiles/uninstall.dir
+C:/Users/sonicwall/Desktop/Desktop-Simulator/glew_build/CMakeFiles/visualinfo.dir
+C:/Users/sonicwall/Desktop/Desktop-Simulator/glew_build/CMakeFiles/edit_cache.dir
+C:/Users/sonicwall/Desktop/Desktop-Simulator/glew_build/CMakeFiles/rebuild_cache.dir
+C:/Users/sonicwall/Desktop/Desktop-Simulator/glew_build/CMakeFiles/list_install_components.dir
+C:/Users/sonicwall/Desktop/Desktop-Simulator/glew_build/CMakeFiles/install/local.dir
+C:/Users/sonicwall/Desktop/Desktop-Simulator/glew_build/CMakeFiles/install.dir
+C:/Users/sonicwall/Desktop/Desktop-Simulator/glew_build/CMakeFiles/install/strip.dir
